@@ -23,7 +23,7 @@ namespace Metroplus
                 if (nombresRutas[contadorRutas].Length > 0)
                     contadorRutas++;
                 else
-                    Console.WriteLine("El dato ingresado no es válido. Intenta nuevamente!");
+                    Console.WriteLine("queso El dato ingresado no es válido. Intenta nuevamente!");
             }
 
             // Aqui declaramos e inicializamos el arreglo de viajes
